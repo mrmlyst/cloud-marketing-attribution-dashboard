@@ -1,0 +1,9 @@
+campaign_id,channel,campaign_name,start_date,end_date,launch_date
+CMP001,paid_search,Search_Brand_Core,2025-08-10,2026-01-31,2025-08-10
+CMP002,paid_search,Search_NonBrand_Scale,2025-09-01,2026-01-31,2025-09-01
+CMP003,paid_social,Social_Prospecting_Video,2025-08-20,2026-01-31,2025-08-20
+CMP004,paid_social,Social_Retargeting_DPA,2025-09-15,2026-01-31,2025-09-15
+CMP005,email,Email_Winback_Series,2025-08-05,2026-01-31,2025-08-05
+CMP006,email,Email_Newsletter,2025-08-01,2026-01-31,2025-08-01
+CMP007,referral,Referral_PartnerPush,2025-10-01,2026-01-31,2025-10-01
+CMP008,paid_social,Social_NewYear_Promo,2025-12-01,2026-01-10,2025-12-01
