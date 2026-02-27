@@ -50,4 +50,17 @@ Controlled Experiment Analysis
 Revenue Lift Measurement
 ROAS Optimization
 
+## 📌 Technical Summary
+
+**Serverless AWS Stack:**
+- Amazon S3 → Data Lake (raw/clean/optimized)
+- Amazon Athena → SQL modeling + semantic views
+- Parquet CTAS tables → SPICE optimization
+- Amazon QuickSight → Executive dashboards
+
+**Key analytics:**
+- Funnel conversion by channel
+- Channel ROAS with KPI ranking
+- Controlled campaign lift analysis (77.4% lift)
+- High-value customer segmentation
 
