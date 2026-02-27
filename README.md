@@ -1,45 +1,45 @@
 Marketing Analytics Cloud Project
 
--- Overview
+Overview
 This project demonstrates an end-to-end serverless marketing analytics pipeline built on AWS.
 
 The goal was to analyze funnel performance, evaluate channel efficiency (ROAS), and measure campaign lift using a controlled before-and-after experiment.
 
--- Architecture
+Architecture
 
 Microsoft Excel – Data cleaning
 Amazon S3 – Data lake storage
 Amazon Athena – SQL modeling & analysis
 Amazon QuickSight – Executive dashboards
 
--- Key Analyses
+Key Analyses
 
--Funnel Performance
+1. Funnel Performance
 
-Email achieved highest conversion rate (~4.9%)
-Organic drove highest traffic but lowest conversion
-Paid Social underperformed in funnel efficiency
+Email achieved highest conversion rate (~4.9%). 
+Organic drove highest traffic but lowest conversion. 
+Paid Social underperformed in funnel efficiency. 
 
--ROAS Analysis
+2. ROAS Analysis
 
-Referral channel generated highest ROAS (0.58)
-Paid Search and Paid Social showed inefficient spend allocation
-Significant budget optimization opportunity identified
+Referral channel generated highest ROAS (0.58).
+Paid Search and Paid Social showed inefficient spend allocation.
+Significant budget optimization opportunity identified.
 
--Campaign Lift Analysis (CMP008)
+3. Campaign Lift Analysis (CMP008)
 
-30-day controlled experiment
-Paid Social revenue increased from $946 → $1,680
-77.4% revenue lift post-launch
+30-day controlled experiment.
+Paid Social revenue increased from $946 → $1,680.
+77.4% revenue lift post-launch.
 
---Business Recommendations
+Business Recommendations
 
-Reallocate budget toward high-ROAS referral campaigns
-Optimize paid social targeting for improved efficiency
-Scale email marketing due to high conversion performance
-Continue structured A/B testing for campaign measurement
+1. Reallocate budget toward high-ROAS referral campaigns
+2. Optimize paid social targeting for improved efficiency
+3. Scale email marketing due to high conversion performance
+4. ontinue structured A/B testing for campaign measurement
 
--- Skills Demonstrated
+Skills Demonstrated
 
 SQL (Athena)
 Data Modeling
