@@ -1,1 +1,10 @@
+Architecture Diagram
 
+The system follows a serverless cloud architecture:
+
+1. Data cleaned locally in Excel
+2. Uploaded to Amazon S3 (data lake storage)
+3. Queried and modeled using Amazon Athena
+4. Visualized through Amazon QuickSight dashboards
+
+This design ensures scalability, cost-efficiency, and modular analytics processing.
